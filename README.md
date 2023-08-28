@@ -1,1 +1,1 @@
-A golang, gin and mongodb backend with a react frontend app authentication feature.
+A golang,gin,mongodb,react authentication feature.
